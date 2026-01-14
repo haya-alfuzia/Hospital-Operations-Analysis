@@ -24,5 +24,9 @@ The objective is to evaluate performance, identify bottlenecks, and support data
 An interactive Power BI dashboard was developed to provide clear insights into hospital operations
 and highlight opportunities for performance improvement.
 
+## Dashboard Preview
+
+![Hospital Operations Dashboard](dashboard.png)
+
 ## Dataset
 Simulated dataset created for learning and portfolio purposes.
